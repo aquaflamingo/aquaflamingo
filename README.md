@@ -9,4 +9,4 @@ please email me if you'd like to get in touch.
 
 ## interests
 
-rails, ruby, go, crystal, kotlin, bitcoin, ethereum, entrepreneurship, philosophy, cryptoassets, economics, biotechnology, synthetic biology, metabolic engineering, genomics
+rails, ruby, go, crystal, kotlin, bitcoin, ethereum, entrepreneurship, philosophy, cryptoassets, economics, biotechnology, synthetic biology, metabolic engineering
