@@ -1,7 +1,6 @@
 Hi there, thanks for visiting my github page. 
 
-please email me if you'd like to get in touch.
+Please email me if you'd like to get in touch.
 
-## interests
+If you're curious about things I've worked on in the past, please see my [project graveyard](https://github.com/aquaflamingo/graveyard).
 
-ruby on rails, ruby, go, crystal, kotlin, entrepreneurship, philosophy, economics, synthetic biology
