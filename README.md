@@ -1,6 +1,4 @@
-Hi there, thanks for visiting my github page. 
+Experience creating and working on early stage products with highly agent individuals in small teams. High degree of intellectual curiosity and motivated to create greater balance, wisdom and prosperity in the world. 
 
-Please email me if you'd like to get in touch.
-
-If you're curious about things I've worked on in the past, please see my [project graveyard](https://github.com/aquaflamingo/graveyard).
+You can view a list of personal projects I have worked on [here](https://github.com/aquaflamingo/graveyard). Please email me if you'd like to get in touch.
 
