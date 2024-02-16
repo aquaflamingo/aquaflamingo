@@ -1,6 +1,5 @@
-High degree of intellectual curiosity and motivated to create greater balance, wisdom and prosperity in the world. 
+Hello, I'm a developer who enjoys writing clean code and Ruby. 
 
-You can view a list of personal projects I have worked on [here](https://github.com/aquaflamingo/graveyard). 
+You can view my writing and website at: https://blog.robertsimoes.org. 
 
-Please email me if you'd like to get in touch at: `aquaflamingo _at_ nitrousmail _dot_ com` 
-
+You can view my projects: https://blog.robertsimoes.org/projects. 
